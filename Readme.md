@@ -7,17 +7,19 @@
 --------------------------------------------------------------------------------------------------------------------------------
 0) TODO: Download the whole files
 
-1) TODO: Create: "Student.txt" and "Teachers.txt" files.
+1) TODO: Open Cmd and run "py -m pip install pyttsx3".
 
-2) TODO: Program must be runned at Windows OS
+2) TODO: Create: "Student.txt" and "Teachers.txt" files.
 
-3) TODO: Run only the Main.cpp file
+3) TODO: Program must be runned at Windows OS
 
-4) TODO: From the Main screen -> choose Admin choice(3) -> (id = Admin, pass = Admin).
+4) TODO: Run only the Main.cpp file
 
-5) TODO: Add Teachers and Students.
+5) TODO: From the Main screen -> choose Admin choice(3) -> (id = Admin, pass = Admin).
 
-6) TODO: choose what you wanna do in the admin or return to the first screen login as Teacher or Student
+6) TODO: Add Teachers and Students.
+
+7) TODO: choose what you wanna do in the admin or return to the first screen login as Teacher or Student
 
 --------------------------------------------------------------------------------------------------------------------------------
 
